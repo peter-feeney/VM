@@ -6,7 +6,7 @@ Simple virtual machine written in C that emulates a MIPS-like assembly language 
 ### Why
 I created this primarily as a way to have fun with C, and to reacquaint myself with some assembly and elementary systems programming concepts. This repository is a space where I can mess around with things in C that interest me if I want to do so.
 
-There were various points during the making of this project where I had to choose between writing maintable code or using some cool feature of C. I chose the latter option every time. So if you're a potential employer and you're reading this then I want you to know that I would never create monstrosities like the macros in eval.c on the job.
+There were various points during the making of this project where I had to choose between writing maintainable code or using some cool feature of C. I chose the latter option every time. So if you're a potential employer and you're reading this then I want you to know that I would never create monstrosities like the macros in eval.c on the job.
 
 ### How
 
